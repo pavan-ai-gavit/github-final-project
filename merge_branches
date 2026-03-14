@@ -1,0 +1,4 @@
+git checkout main
+git merge bug-fix-typo
+
+1 file changed, 1 insertion(+)
