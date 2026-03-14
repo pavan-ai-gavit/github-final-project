@@ -1,5 +1,12 @@
-curl -L https://api.github.com/repos/pavan-ai-gavit/mcino-Introduction-to-Git-and-GitHub/pulls
+curl -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
 
-{
- "url": "https://api.github.com/repos/pavan-ai-gavit/mcino-Introduction-to-Git-and-GitHub/pulls"
-}
+[
+ {
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "head": {
+   "repo": {
+    "full_name": "pavan-ai-gavit/mcino-Introduction-to-Git-and-GitHub"
+   }
+  }
+ }
+]
